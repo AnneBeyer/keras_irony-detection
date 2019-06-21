@@ -2,7 +2,7 @@
 
 irony_detection.py
 
-The subfolder irony_data contains two corpora annotated for irony:
+A subfolder irony_data should contain two corpora annotated for irony:
 * a larger out-of-domain set containing tweets (as used for this SemEval task: https://competitions.codalab.org/competitions/17468)
 * a smaller in-domain set containing reddit comments (as provided on https://www.kaggle.com/rtatman/ironic-corpus)
 
